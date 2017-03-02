@@ -9,6 +9,7 @@
       width: 100%;
       font-size: 30px;
       margin: 100px auto;
+      text-align:center;
     }
     </style>
 </head>
