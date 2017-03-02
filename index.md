@@ -6,7 +6,7 @@
     <style type="text/css">
     .theme{
       display: block;
-      width: 200px;
+      width: 100%;
       font-size: 30px;
       margin: 100px auto;
     }
@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="theme">
-  Hello, world.I am here.
+Hello, world.<br/> I am here.
 </div>
 
 </body>
